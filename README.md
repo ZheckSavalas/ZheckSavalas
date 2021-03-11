@@ -1,7 +1,7 @@
 # Hi 👋, I'm ZheckSavalas (Mz-ID)
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jamet1337&show_icons=true&theme=onedark&locale=en" alt="zs-id" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ZheckSavalas&show_icons=true&theme=onedark&locale=en" alt="zs-id" /></p>
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZheckSavalas" alt="zs-id" /></a></p>
